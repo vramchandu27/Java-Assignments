@@ -1,0 +1,23 @@
+C Program to Reverse a Number & Check if it is a Palindrome.
+2. C Program to Compute the Sum of Digits in a given Integer.
+3. C Program to find Product of 2 Numbers without using *.
+4. C Program to Check whether a given Number is Armstrong
+number.
+5. C Program to Check whether a given Number is Perfect number.
+6. C Program to Print Armstrong Number from 1 to 1000.
+7. C Program to Generate Fibonacci Series of N Numbers using 
+Command-Line Argument.
+8. C Program to Compute First N Fibonacci Numbers using 
+Command Line Arguments.
+9. C Program to Calculate Sum & Average of an Array.
+10. C Program to Find the Second Largest & Smallest Elements in an 
+Array.
+11. C Program to Calculate the Sum of Odd & Even Numbers in array.
+12. C Program checks 2 elements in the array such that difference 
+between them is largest.
+13. C Program to Interchange any two Rows & Columns in the 
+given Matrix
+14. C Program to find the transpose of a given matrix
+15. C Program displays the upper triangular matrix.
+16.C Program to Find the Frequency of Odd & Even Numbers in 
+the given Matri
